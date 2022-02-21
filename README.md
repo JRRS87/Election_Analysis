@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A Colorado Board of Elections is reuesting the following tasks to complete the 
+A Colorado Board of Elections is requesting the following tasks to complete the 
 election audit of a recent local congressional election.
 
 1.- Calculate the total number of votes cast.
